@@ -1,0 +1,19 @@
+{
+  "name": "js-whack-a-mole",
+  "version": "1.0.0",
+  "description": "A vanilla JS whack a mole game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryandixon555/js-whack-a-mole.git"
+  },
+  "author": "Ryan Dixon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryandixon555/js-whack-a-mole/issues"
+  },
+  "homepage": "https://github.com/ryandixon555/js-whack-a-mole#readme"
+}
